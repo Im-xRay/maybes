@@ -440,7 +440,7 @@ def run_batch_inference(
     )
 
     with open(input_file, "r", encoding="utf-8") as f:
-        questions = [json.loads(line) for line in f]
+        questions = [json.loads(line) for line in f if line.strip()]
 
     print(f"=== PROCESSING {len(questions)} QUESTIONS OFFLINE ===")
     t_start = time.time()
