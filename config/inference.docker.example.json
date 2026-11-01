@@ -1,0 +1,19 @@
+{
+  "input": "/data/questions.jsonl",
+  "business_data_root": "/data/data",
+  "model_path": "/models/qwen",
+  "log": "/result/run.jsonl",
+  "submission_output": "/result/submission.jsonl",
+  "coercions": null,
+  "rulebook": "/data/rulebook.md",
+  "calendar": "/data/calendar.csv",
+  "as_of_date": null,
+  "device": "cpu",
+  "local_files_only": true,
+  "precision": "fp32",
+  "trust_remote_code": false,
+  "max_prompt_tokens": 2048,
+  "max_new_tokens": 256,
+  "parameter_cap": 15000000000,
+  "generation_timeout_seconds": null
+}

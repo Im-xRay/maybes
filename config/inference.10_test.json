@@ -1,0 +1,17 @@
+{
+  "input": "C:\\Users\\HOA BINH\\DataMate-Zalo_AI-master\\data\\public_test\\questions_10.jsonl",
+  "business_data_root": "C:\\Users\\HOA BINH\\DataMate-Zalo_AI-master\\data\\public_test\\data",
+  "model_path": "C:\\Users\\HOA BINH\\Model\\models\\foundation\\qwen2.5_3b",
+  "device": "cuda",
+  "log": "C:\\Users\\HOA BINH\\DataMate-Zalo_AI-master\\output\\public_test\\run_10.jsonl",
+  "submission_output": "C:\\Users\\HOA BINH\\DataMate-Zalo_AI-master\\output\\public_test\\submission_10.jsonl",
+  "rulebook": "C:\\Users\\HOA BINH\\DataMate-Zalo_AI-master\\data\\public_test\\rulebook.md",
+  "calendar": "C:\\Users\\HOA BINH\\DataMate-Zalo_AI-master\\data\\public_test\\calendar.csv",
+  "coercions": null,
+  "as_of_date": null,
+  "precision": "bf16",
+  "max_prompt_tokens": 3072,
+  "max_new_tokens": 512,
+  "parameter_cap": 15000000000,
+  "generation_timeout_seconds": null
+}

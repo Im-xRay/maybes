@@ -1,0 +1,21 @@
+FROM python:3.12-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    HF_HUB_OFFLINE=1 \
+    TRANSFORMERS_OFFLINE=1 \
+    HF_HOME=/tmp/huggingface
+
+WORKDIR /app
+
+COPY requirements.txt requirements-inference.txt ./
+RUN python -m pip install --no-cache-dir \
+        --index-url https://download.pytorch.org/whl/cpu \
+        "torch==2.5.1" \
+    && python -m pip install --no-cache-dir -r requirements.txt -r requirements-inference.txt
+
+COPY src/ ./src/
+COPY scripts/run_inference.py ./scripts/run_inference.py
+COPY config/inference.docker.example.json ./config/inference.docker.json
+
+ENTRYPOINT ["python", "scripts/run_inference.py", "--config", "/app/config/inference.docker.json"]

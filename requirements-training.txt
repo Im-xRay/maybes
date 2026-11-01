@@ -1,0 +1,4 @@
+# Optional dependencies for the dedicated CUDA training host only.
+# Install the CUDA-matched PyTorch build from the official PyTorch instructions first.
+-r requirements-inference.txt
+peft>=0.13,<1

@@ -1,0 +1,21 @@
+services:
+  datamate:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    image: datamate-local-inference:dev
+    network_mode: none
+    read_only: true
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    tmpfs:
+      - /tmp:rw,noexec,nosuid,size=1g
+    environment:
+      OMP_NUM_THREADS: "4"
+      MKL_NUM_THREADS: "4"
+    volumes:
+      - ${DATAMATE_INPUT_DIR:?Set DATAMATE_INPUT_DIR in .env}:/data:ro
+      - ${DATAMATE_MODEL_DIR:?Set DATAMATE_MODEL_DIR in .env}:/models/qwen:ro
+      - ${DATAMATE_OUTPUT_DIR:?Set DATAMATE_OUTPUT_DIR in .env}:/result:rw

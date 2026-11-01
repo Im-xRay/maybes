@@ -4,3 +4,11 @@ __pycache__/
 .pytest_cache/
 *.log
 *.tmp
+*.zip
+train/
+public_test/
+data/
+result/
+models/
+checkpoints/
+.env

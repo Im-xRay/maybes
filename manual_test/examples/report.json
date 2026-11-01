@@ -1,0 +1,25 @@
+{
+  "total_questions": 100,
+  "processed_successfully": 100,
+  "errors": 0,
+  "prediction_errors": 0,
+  "expected_answer_valid_count": 80,
+  "correct_answers": 80,
+  "wrong_answers": 0,
+  "abstentions": 0,
+  "without_expected_answer": 20,
+  "accuracy": 1.0,
+  "accuracy_scope": "So sánh local theo evaluation.answers_match; không phải điểm PA chính thức. Abstain chỉ đúng nếu type/value trùng đáp án chuẩn.",
+  "error_categories": [
+    "Chọn sai bảng hoặc cột",
+    "Cần phân tích thủ công",
+    "Không hiểu đúng câu hỏi",
+    "Không đủ dữ liệu để trả lời",
+    "Lọc dữ liệu sai",
+    "Sai business rule",
+    "Thực thi truy vấn sai",
+    "Tính toán sai",
+    "Tạo QueryPlan sai",
+    "Xuất đáp án sai định dạng"
+  ]
+}

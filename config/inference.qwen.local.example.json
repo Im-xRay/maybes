@@ -1,0 +1,19 @@
+{
+  "input": "../input/questions.jsonl",
+  "business_data_root": "../input/business",
+  "model_path": "F:\\AI-Models\\Qwen2.5-0.5B-Instruct",
+  "log": "../output/qwen-run.jsonl",
+  "submission_output": "../output/qwen-submission.jsonl",
+  "coercions": null,
+  "rulebook": null,
+  "calendar": null,
+  "as_of_date": null,
+  "device": "cuda",
+  "local_files_only": true,
+  "precision": "fp16",
+  "trust_remote_code": false,
+  "max_prompt_tokens": 2048,
+  "max_new_tokens": 512,
+  "parameter_cap": 15000000000,
+  "generation_timeout_seconds": null
+}

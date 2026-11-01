@@ -1,0 +1,100 @@
+{"id": "synth-001", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P16.", "expected_answer": {"type": "number", "answer": 320750}}
+{"id": "synth-002", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P09.", "expected_answer": {"type": "number", "answer": 24}}
+{"id": "synth-003", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P12.", "expected_answer": {"type": "number", "answer": 23}}
+{"id": "synth-004", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P14.", "expected_answer": {"type": "number", "answer": 27}}
+{"id": "synth-005", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P03.", "expected_answer": {"type": "number", "answer": 154}}
+{"id": "synth-006", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P12.", "expected_answer": {"type": "number", "answer": 157}}
+{"id": "synth-007", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P05.", "expected_answer": {"type": "number", "answer": 24}}
+{"id": "synth-008", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P14.", "expected_answer": {"type": "number", "answer": 173}}
+{"id": "synth-009", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P07.", "expected_answer": {"type": "number", "answer": 26}}
+{"id": "synth-010", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P12.", "expected_answer": {"type": "number", "answer": 23}}
+{"id": "synth-011", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P03.", "expected_answer": {"type": "number", "answer": 23}}
+{"id": "synth-012", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P01.", "expected_answer": {"type": "number", "answer": 259000}}
+{"id": "synth-013", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P15.", "expected_answer": {"type": "number", "answer": 306500}}
+{"id": "synth-014", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P02.", "expected_answer": {"type": "number", "answer": 174}}
+{"id": "synth-015", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P14.", "expected_answer": {"type": "number", "answer": 249750}}
+{"id": "synth-016", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P01.", "expected_answer": {"type": "number", "answer": 159}}
+{"id": "synth-017", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P01.", "expected_answer": {"type": "number", "answer": 259000}}
+{"id": "synth-018", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P04.", "expected_answer": {"type": "number", "answer": 320750}}
+{"id": "synth-019", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P14.", "expected_answer": {"type": "number", "answer": 173}}
+{"id": "synth-020", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P18.", "expected_answer": {"type": "number", "answer": 176500}}
+{"id": "synth-021", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P05.", "expected_answer": {"type": "number", "answer": 270500}}
+{"id": "synth-022", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P16.", "expected_answer": {"type": "number", "answer": 185}}
+{"id": "synth-023", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P13.", "expected_answer": {"type": "number", "answer": 162750}}
+{"id": "synth-024", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P13.", "expected_answer": {"type": "number", "answer": 142}}
+{"id": "synth-025", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P05.", "expected_answer": {"type": "number", "answer": 24}}
+{"id": "synth-026", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P04.", "expected_answer": {"type": "number", "answer": 23}}
+{"id": "synth-027", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P11.", "expected_answer": {"type": "number", "answer": 163}}
+{"id": "synth-028", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P01.", "expected_answer": {"type": "number", "answer": 19}}
+{"id": "synth-029", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P02.", "expected_answer": {"type": "number", "answer": 174}}
+{"id": "synth-030", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P20.", "expected_answer": {"type": "number", "answer": 318750}}
+{"id": "synth-031", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P10.", "expected_answer": {"type": "number", "answer": 29}}
+{"id": "synth-032", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P09.", "expected_answer": {"type": "number", "answer": 227000}}
+{"id": "synth-033", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P03.", "expected_answer": {"type": "number", "answer": 154}}
+{"id": "synth-034", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P07.", "expected_answer": {"type": "number", "answer": 362750}}
+{"id": "synth-035", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P12.", "expected_answer": {"type": "number", "answer": 239250}}
+{"id": "synth-036", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P14.", "expected_answer": {"type": "number", "answer": 249750}}
+{"id": "synth-037", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P04.", "expected_answer": {"type": "number", "answer": 23}}
+{"id": "synth-038", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P03.", "expected_answer": {"type": "number", "answer": 154}}
+{"id": "synth-039", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P19.", "expected_answer": {"type": "number", "answer": 291750}}
+{"id": "synth-040", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P17.", "expected_answer": {"type": "number", "answer": 199750}}
+{"id": "synth-041", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P08.", "expected_answer": {"type": "number", "answer": 20}}
+{"id": "synth-042", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P20.", "expected_answer": {"type": "number", "answer": 26}}
+{"id": "synth-043", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P13.", "expected_answer": {"type": "number", "answer": 20}}
+{"id": "synth-044", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P12.", "expected_answer": {"type": "number", "answer": 239250}}
+{"id": "synth-045", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P02.", "expected_answer": {"type": "number", "answer": 174}}
+{"id": "synth-046", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P17.", "expected_answer": {"type": "number", "answer": 199750}}
+{"id": "synth-047", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P02.", "expected_answer": {"type": "number", "answer": 27}}
+{"id": "synth-048", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P07.", "expected_answer": {"type": "number", "answer": 26}}
+{"id": "synth-049", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P10.", "expected_answer": {"type": "number", "answer": 310750}}
+{"id": "synth-050", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P06.", "expected_answer": {"type": "number", "answer": 120}}
+{"id": "synth-051", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P20.", "expected_answer": {"type": "number", "answer": 318750}}
+{"id": "synth-052", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P19.", "expected_answer": {"type": "number", "answer": 178}}
+{"id": "synth-053", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P08.", "expected_answer": {"type": "number", "answer": 248500}}
+{"id": "synth-054", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P19.", "expected_answer": {"type": "number", "answer": 291750}}
+{"id": "synth-055", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P04.", "expected_answer": {"type": "number", "answer": 23}}
+{"id": "synth-056", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P10.", "expected_answer": {"type": "number", "answer": 310750}}
+{"id": "synth-057", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P12.", "expected_answer": {"type": "number", "answer": 157}}
+{"id": "synth-058", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P05.", "expected_answer": {"type": "number", "answer": 179}}
+{"id": "synth-059", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P15.", "expected_answer": {"type": "number", "answer": 306500}}
+{"id": "synth-060", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P08.", "expected_answer": {"type": "number", "answer": 248500}}
+{"id": "synth-061", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P01.", "expected_answer": {"type": "number", "answer": 159}}
+{"id": "synth-062", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P02.", "expected_answer": {"type": "number", "answer": 345500}}
+{"id": "synth-063", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P01.", "expected_answer": {"type": "number", "answer": 19}}
+{"id": "synth-064", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P03.", "expected_answer": {"type": "number", "answer": 154}}
+{"id": "synth-065", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P09.", "expected_answer": {"type": "number", "answer": 161}}
+{"id": "synth-066", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P19.", "expected_answer": {"type": "number", "answer": 291750}}
+{"id": "synth-067", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P03.", "expected_answer": {"type": "number", "answer": 23}}
+{"id": "synth-068", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P15.", "expected_answer": {"type": "number", "answer": 306500}}
+{"id": "synth-069", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P17.", "expected_answer": {"type": "number", "answer": 18}}
+{"id": "synth-070", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P01.", "expected_answer": {"type": "number", "answer": 159}}
+{"id": "synth-071", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P04.", "expected_answer": {"type": "number", "answer": 23}}
+{"id": "synth-072", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P07.", "expected_answer": {"type": "number", "answer": 362750}}
+{"id": "synth-073", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P10.", "expected_answer": {"type": "number", "answer": 29}}
+{"id": "synth-074", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P14.", "expected_answer": {"type": "number", "answer": 249750}}
+{"id": "synth-075", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P03.", "expected_answer": {"type": "number", "answer": 308000}}
+{"id": "synth-076", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P01.", "expected_answer": {"type": "number", "answer": 159}}
+{"id": "synth-077", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P01.", "expected_answer": {"type": "number", "answer": 19}}
+{"id": "synth-078", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P17.", "expected_answer": {"type": "number", "answer": 110}}
+{"id": "synth-079", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P01.", "expected_answer": {"type": "number", "answer": 159}}
+{"id": "synth-080", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P01.", "expected_answer": {"type": "number", "answer": 259000}}
+{"id": "synth-081", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P02.", "expected_answer": null}
+{"id": "synth-082", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P14.", "expected_answer": null}
+{"id": "synth-083", "business_id": "biz_demo", "question": "Tính tổng doanh thu của sản phẩm P03.", "expected_answer": null}
+{"id": "synth-084", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P17.", "expected_answer": null}
+{"id": "synth-085", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P03.", "expected_answer": null}
+{"id": "synth-086", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P06.", "expected_answer": null}
+{"id": "synth-087", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P14.", "expected_answer": null}
+{"id": "synth-088", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P12.", "expected_answer": null}
+{"id": "synth-089", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P17.", "expected_answer": null}
+{"id": "synth-090", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P18.", "expected_answer": null}
+{"id": "synth-091", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P10.", "expected_answer": null}
+{"id": "synth-092", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P20.", "expected_answer": null}
+{"id": "synth-093", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P15.", "expected_answer": null}
+{"id": "synth-094", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P13.", "expected_answer": null}
+{"id": "synth-095", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P03.", "expected_answer": null}
+{"id": "synth-096", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P10.", "expected_answer": null}
+{"id": "synth-097", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P16.", "expected_answer": null}
+{"id": "synth-098", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P07.", "expected_answer": null}
+{"id": "synth-099", "business_id": "biz_demo", "question": "Tính tổng số lượng bán của sản phẩm P02.", "expected_answer": null}
+{"id": "synth-100", "business_id": "biz_demo", "question": "Đếm số đơn hàng khác nhau có sản phẩm P20.", "expected_answer": null}

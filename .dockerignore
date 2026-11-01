@@ -1,0 +1,13 @@
+.git
+.venv
+.venv-*/
+__pycache__
+.pytest_cache
+*.py[cod]
+data
+manual_test
+output
+models
+tests
+planning
+*.log
